@@ -45,4 +45,4 @@ So this this dashboard help climate researcher's, disaster management team and l
 ---
 
 ## 📸 Dashboard Screenshot
-![Weather Dashboard]()
+![Weather Dashboard](https://github.com/Afjal-khan/Weather-Analysis-Dashboard/blob/main/Weather%20analysis%20dashboard%20image.png)
